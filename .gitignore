@@ -1,0 +1,10 @@
+# modules
+node_modules/
+
+# cache
+.DS_Store
+
+# production
+dist/
+build/
+.env.prod
