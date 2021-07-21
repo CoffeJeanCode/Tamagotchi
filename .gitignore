@@ -3,8 +3,13 @@ node_modules/
 
 # cache
 .DS_Store
+.cache
 
 # production
 dist/
 build/
 .env.prod
+
+# lock files
+yarn.lock
+package-lock.json
